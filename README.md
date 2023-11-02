@@ -81,7 +81,7 @@ Container(
 Run aplikasi tersebut dengan tekan F5, maka hasilnya akan seperti berikut.
 ![Screenshot flutter_plugin_pubdev](images/10.jpg)
 
-<b>Laporan Praktikum Manajemen Plug in kelas 3A</b>
+# Laporan Praktikum Manajemen Plug in kelas 3A
 
 1. Selesaikan Praktikum Menerapkan Plugin di Project Flutter diatas, lalu dokumentasikan dan push ke repository Anda berupa screenshot hasil pekerjaan beserta penjelasannya di file README.md!
 
